@@ -14,4 +14,4 @@ The next section should be pointing out the possible problems one may have and s
 
 To ensure the mini-tutorials are more accessbile, the mini-tutorials should be written in Markdown, HTML, Word or PDF, all without macros or scripts for security reasons.
 
-Thank you!
+Thank you and have a nice day!
